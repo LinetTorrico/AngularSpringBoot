@@ -34,8 +34,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
         private ApiInfo apiInfo() {
             return new ApiInfoBuilder()
-                    .title("Spring Web App API")
-                    .description("Rest API for my BE ")
+                    .title("Spring Web ")
+                    .description("Rest API for my task")
                     .contact(ApiInfo.DEFAULT_CONTACT)
                     .version("1.0")
                     .license("Apache 2.0")
